@@ -15,7 +15,7 @@ Menú - Principal
 ![Login poo](https://github.com/PrismallyFernandez/Sistema-Ventas-y-Compras/assets/128163232/05581fba-69b6-4c58-8731-c3228a6696de)
 
 
-Create Productos with Categories
+Create Products with Categories
 
 ![Categorias - poo](https://github.com/PrismallyFernandez/Sistema-Ventas-y-Compras/assets/128163232/e7d3cfd5-5dc1-4ca4-84ce-ff83c9dd1986)
 ![Articulo - poo](https://github.com/PrismallyFernandez/Sistema-Ventas-y-Compras/assets/128163232/35727cb2-9b49-4f26-a17f-e44d7306c7ec)
